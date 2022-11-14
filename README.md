@@ -1,1 +1,1 @@
-# lighthouse-web-notes
+# John Kang's Notes
